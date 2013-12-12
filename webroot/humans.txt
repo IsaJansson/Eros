@@ -1,0 +1,1 @@
+Eros is a PHP-bolierplate/framework for small websites. Eros was built by Isa Jansson as part of a web development course at Blekinge institute och thechnology. It was published at http://www.student.bth.se/~isja13/oophp/ in October 2013 as an asignment in mentioned course. 
